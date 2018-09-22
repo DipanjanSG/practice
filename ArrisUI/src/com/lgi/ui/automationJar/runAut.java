@@ -115,7 +115,7 @@ public class runAut {
 		prop.load(fis);
 
 		File dir;
-
+           
 		// if the directory does not exist, creates it
 		// else cleans it
 
