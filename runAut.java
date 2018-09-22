@@ -768,7 +768,7 @@ public class runAut {
 
 		Thread.sleep(1.1);
   	Thread.sleep(2.1);
-
+//branch 2 changes
 		System.out.println("Test Execution Completed. Please go to Reports/" + dir + " folder for test reports");
 
 		exit(1);
