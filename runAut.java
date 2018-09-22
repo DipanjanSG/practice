@@ -764,6 +764,7 @@ public class runAut {
 			t.stop();
 		log = Driver.getLogger();
 		log.info("Test Execution Completed. Please go to Reports/" + dir + " folder for test reports");
+		Thread.sleep(0);
 		System.out.println("Test Execution Completed. Please go to Reports/" + dir + " folder for test reports");
 
 		exit(1);
