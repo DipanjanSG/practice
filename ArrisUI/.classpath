@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JarsMercury/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/ashot-1.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/joda-time-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/joda-time-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/joda-time-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/jsch-0.1.44-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/jsch-0.1.52.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/sshd-core-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/sshd-core-0.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/JarsMercury/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
