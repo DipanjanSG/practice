@@ -1,5 +1,6 @@
 //git jenkins dipanjan
 //second edit
+
 package com.lgi.ui.automationJar;
 
 import java.io.File;
@@ -70,7 +71,7 @@ public class runAut {
 	public static void main(String[] args) throws IOException, InterruptedException, EncryptedDocumentException, InvalidFormatException 
 	{
 
-		
+		//Editing here
 		modem = args[0];
 		
 		if(modem.contains("TestData"))
@@ -114,7 +115,7 @@ public class runAut {
 		prop.load(fis);
 
 		File dir;
-
+           
 		// if the directory does not exist, creates it
 		// else cleans it
 
