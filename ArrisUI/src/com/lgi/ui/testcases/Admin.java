@@ -16,8 +16,9 @@ public class Admin
 	Logger log = null;
 	CommonFunctionality fun = new CommonFunctionality();
 	String response = null;
+	static {
+	}
 	
-
 	@BeforeClass
 	public void testInitBrowser() {
 
