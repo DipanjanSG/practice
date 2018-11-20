@@ -37,7 +37,7 @@ public class CommonFunctionality {
 		//hello
 		//hello 2
 		int x=0;
-
+		int p=0;
 	}
 
 	public void RebootGateWay() {
