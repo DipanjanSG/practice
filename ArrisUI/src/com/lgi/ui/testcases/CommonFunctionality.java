@@ -38,14 +38,6 @@ public class CommonFunctionality {
 		//hello 2
 		int x=0;
 
-		//hello 3
-		//hello 6
-		//hello 3.1
-		
-		//hello 4
-		//hello 1
-		//hello 7
-
 	}
 
 	public void RebootGateWay() {
