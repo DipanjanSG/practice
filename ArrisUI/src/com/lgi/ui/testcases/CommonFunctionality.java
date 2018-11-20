@@ -33,7 +33,11 @@ public class CommonFunctionality {
 	WebDriver driver;//aded
 	static
 	{
+
 		//hello
+
+		int x=0;
+
 	}
 
 	public void RebootGateWay() {
