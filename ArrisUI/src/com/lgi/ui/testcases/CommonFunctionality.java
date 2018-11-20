@@ -27,8 +27,15 @@ import com.lgi.ui.testAction.TestAction;
 public class CommonFunctionality {
 
 	Logger log = Driver.getLogger();
-	WebDriver driver;//aded
+
 	
+
+	WebDriver driver;//aded
+	static
+	{
+		
+	}
+
 	public void RebootGateWay() {
 
 
