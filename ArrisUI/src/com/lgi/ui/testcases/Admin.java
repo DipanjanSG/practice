@@ -25,7 +25,7 @@ public class Admin
 
 		
 		log = Driver.getLogger();
-		log.info("+++++++++++++++++ Gateway Model: " + runAut.modem + " - Admin Page +++++++++++++++++");
+		log.info("+++++++++++++++++ Gateway Model: " + runAut.modem + " - Admin (oldie) Page +++++++++++++++++");
 	}
 
 	@BeforeMethod
