@@ -42,8 +42,9 @@ public class CommonFunctionality {
 
 
 		int p=0;
-		int x=0;
-		int r=9;
+
+		int x=0; int g=0;int y=0;
+
 
 	}
 
