@@ -28,7 +28,10 @@ public class CommonFunctionality {
 
 	Logger log = Driver.getLogger();
 	WebDriver driver;
-	
+	static
+	{
+		
+	}
 	public void RebootGateWay() {
 
 
